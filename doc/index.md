@@ -9,10 +9,5 @@ documentation.
 :caption: Contents:
 some-feature.md
 another-feature.md
-```
-```{toctree}
-:maxdepth: 2
-:caption: Contents:
-
-...
 apidocs/index
+```
